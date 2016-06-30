@@ -2,7 +2,7 @@ from __future__ import division, print_function
 from detect_peaks import detect_peaks
 import numpy as np
 
-##%matplotlib notebook
+#%matplotlib notebook
 import matplotlib.pyplot as plt
 
 import sys
