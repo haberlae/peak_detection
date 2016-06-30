@@ -4,6 +4,7 @@ import numpy as np
 
 #%matplotlib notebook
 import matplotlib.pyplot as plt
+#Lets try this one more time
 
 import sys
 sys.path.insert(1, r'./../functions')  # add to pythonpath
